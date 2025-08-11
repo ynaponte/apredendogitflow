@@ -7,6 +7,8 @@
 import requests
 import json
 
+# ADSDADSKDAÇDSADÇAJSJDAÇJK
+
 class Connection(object):
     """Connection object to interact with the GenieACS server."""
     def __init__(self, ip, port=7557, ssl=False, verify=False, auth=False, user="", passwd="", url="", timeout=10):
